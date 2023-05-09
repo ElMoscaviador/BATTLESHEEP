@@ -1,6 +1,6 @@
 # 🐑 B A T T L E S H E E P 🐑
 #### A sheep-themed riff on the standard Battleship game 
-https://elmoscaviador.github.io/TOP_BATTLESHEEP/
+https://elmoscaviador.github.io/battlesheep/
 
 ---
 ## ALL ABOUT THE PROJECT 
